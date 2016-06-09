@@ -7,7 +7,7 @@ import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
- * @author Zolotaryov.V.G
+ * @author Rofgar
  * @since 6/4/16
  */
 public class SolutionTest {
